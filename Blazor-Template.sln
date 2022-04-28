@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32408.312
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{26505643-01BD-46ED-811F-830289FDEA22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{26505643-01BD-46ED-811F-830289FDEA22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{0EAC86C6-4AA0-4ECB-BB02-AD6055FD61BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{0EAC86C6-4AA0-4ECB-BB02-AD6055FD61BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{AB2A4600-3F51-4684-BE3A-882F8F36C59B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{AB2A4600-3F51-4684-BE3A-882F8F36C59B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{0B6C5218-2956-4ED4-BE5A-5F7763E9307F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{DEEC91D6-B84D-4215-885C-4C7A2FB3364E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{DEEC91D6-B84D-4215-885C-4C7A2FB3364E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +29,6 @@ Global
 		{AB2A4600-3F51-4684-BE3A-882F8F36C59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB2A4600-3F51-4684-BE3A-882F8F36C59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB2A4600-3F51-4684-BE3A-882F8F36C59B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B6C5218-2956-4ED4-BE5A-5F7763E9307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B6C5218-2956-4ED4-BE5A-5F7763E9307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B6C5218-2956-4ED4-BE5A-5F7763E9307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B6C5218-2956-4ED4-BE5A-5F7763E9307F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DEEC91D6-B84D-4215-885C-4C7A2FB3364E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DEEC91D6-B84D-4215-885C-4C7A2FB3364E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEEC91D6-B84D-4215-885C-4C7A2FB3364E}.Release|Any CPU.ActiveCfg = Release|Any CPU
